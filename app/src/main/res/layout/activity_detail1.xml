@@ -8,6 +8,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
     <TextView
+        android:id="@+id/tv_1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#333"
@@ -17,6 +18,7 @@
         android:layout_margin="20dp"
         />
     <TextView
+        android:id="@+id/tv_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textColor="#333"
